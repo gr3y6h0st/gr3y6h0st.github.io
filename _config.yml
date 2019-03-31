@@ -107,14 +107,14 @@ analytics:
 # Site Author
 author:
   name             : "Jayvy Difuntorum"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : "Grow with Google Scholar. Udacity Android Developer Graduate."
   location         : "South San Francisco, CA"
   email            :  "jayvy19@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jayvy19@gmail.com
+      #url: mailto:jayvy19@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
