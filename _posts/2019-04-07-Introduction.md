@@ -4,7 +4,8 @@ date: 2019-04-07
 tags: [Android, Udacity, Github Pages, Fresher, Mobile App Development, Google, Grow with Google, Nanodegree]
 header:
   image: "images/headerphoto.jpg"
-excerpt: "Hey there! I'm Jayvy, a SF Bay Area native..."
+excerpt: "I'm Jayvy, a San Francisco Bay Area native and a self-taught Android Developer working my way into transitioning to professional Android Engineer roles."
+
 ---
 
 ## First Post: A little bit about Me!
