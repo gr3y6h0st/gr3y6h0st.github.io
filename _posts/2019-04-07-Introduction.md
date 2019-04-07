@@ -1,13 +1,13 @@
 ---
-title: "First Post: Introduction!"
+title: "Introduction"
 date: 2019-04-07
-tags: [Android, Github Pages, Fresher, App Development]
+tags: [Android, Udacity, Github Pages, Fresher, Mobile App Development, Google, Grow with Google, Nanodegree]
 header:
   image: "images/headerphoto.jpg"
-excerpt: "Android Development, Mobile Development"
+excerpt: "Hey there! I'm Jayvy, a SF Bay Area native..."
 ---
 
-# First Post: Intro to... Me!
+## First Post: A little bit about Me!
 
 Hey there!
 
@@ -21,12 +21,16 @@ Fortunately, Google had initiated a co-sponsored partnership with Udacity throug
 
 So I joined...
 
-...got selected (WhooooHOOOOO!)...
+...got selected as a scholar! (WhooooHOOOOO!)...
 
 ...and graduated the Android Nanodegree Program as of November 2018!
 
 However, as anyone in the tech industry knows, things constantly evolve and do so at a rapid rate! 
 
-I'll be using this site to document and showcase my work throughout my journey to understanding and keeping pace with the latest libraries and methodologies in Android Development. 
+I'll be using this site to document and showcase my work throughout my journey to understanding and keeping pace with the latest libraries and methodologies in Android Development. In the future, I plan to use follow up posts to tease the projects I've been (or will be) working on. Checkout my projects page for a more visual look at my work. My Github will also be available in my info section for anyone trying to get an in-depth look at my code.
 
 If you got this far. Thanks for reading! :)
+
+Brb. Getting back to the grind.
+
+- JD
