@@ -12,17 +12,19 @@ excerpt: "I'm Jayvy, a San Francisco Bay Area native and a self-taught Android D
 
 Hey there!
 
-I'm Jayvy, a San Francisco Bay Area native and a self-taught Android Developer working my way into transitioning to professional Android Engineer roles.
+I'm Jayvy, a San Francisco Bay Area native and a self-taught Android Developer working towards transitioning to professional Android Engineer roles.
 
 My road to Android began in 2016 with Udacity's Android Basics: Nanodegree, a beginner-friendly intro course for those looking to dive into the world of Mobile Android. 
 
-By mid-2017, I had finished the program and began making arrangements to moving up to their "career-ready" Android Nanodegree curriculum. 
+By mid-2017, I had finished the course and began making arrangements to moving up to their "career-ready" Android Nanodegree curriculum. 
 
-Fortunately, Google had initiated a co-sponsored partnership with Udacity through a program called the Grow with Google Challenge around the same time. I decided to give it my best shot. Why not?
+Luckily for me, Google had initiated a co-sponsored partnership with Udacity through a program called the Grow with Google Challenge around the same time. I decided to give that a shot!
 
 So I joined...
 
-...got selected as a scholar! (WhooooHOOOOO!)...
+...over the span of three months, worked through the Challenge Phase with 10,000 other Mobile Developmer peers...
+
+...got selected as an Android Track scholar! (WhooooHOOOOO!)...
 
 ...and graduated the Android Nanodegree Program as of November 2018!
 
