@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 permalink: /about/
 header:
   image: "/images/headerphoto.jpg"
@@ -17,7 +17,7 @@ Luckily for me, Google had initiated a co-sponsored partnership with Udacity thr
 
 So I joined...
 
-...over the span of three months, worked through the Challenge Phase with 10,000 other Mobile Developmer peers...
+...over the span of three months, worked through the Challenge Phase with 10,000 other Mobile Developer peers...
 
 ...got selected as an Android Track Scholar! (WhooooHOOOOO!)...
 
