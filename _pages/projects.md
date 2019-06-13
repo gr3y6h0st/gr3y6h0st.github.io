@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Android Projects"
+title: "Projects"
 author_profile: true
 header:
   image: "images/headerphoto.jpg"
