@@ -16,7 +16,7 @@ Why?
 
 I finally released my first Google Play App.
 
-[Download It Here!](https://play.google.com/store/apps/details?id=com.jaydroid.beginnnerleveljapanese "Google Play")
+[Download It Here!](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese "Google Play")
 
 Back to the grind.
 
