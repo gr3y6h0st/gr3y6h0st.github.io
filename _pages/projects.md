@@ -9,17 +9,9 @@ author_profile: true
 
 ## Screenshots
 
-gallery:
-  - url: /assets/images/LBJA-feature.png
-    image_path: /assets/images/LBJA-feature.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+<img src="/assets/images/LBJA-feature.png" width="500">
+<img src="/assets/images/LBJA_Main_Screen_Phrases" width="300">
+<img src="/assets/images/LBJA_Main_Screen_Favorites" width="500">
+<img src="/assets/images/LBJA_Main_Screen_Hiragana" width="500">
 
-gallery:
-  - url: /assets/images/LBJA-feature.png
-  - 
 
-image: /assets/images/LBJA-feature.png
-image: images/LBJA-feature.png
-
-<img src="/assets/images/LBJA-feature.png" width="250">
