@@ -8,6 +8,8 @@ author_profile: true
 
 
 ## Screenshots
-<img src="https://github.com/gr3y6h0st/gr3y6h0st.github.io/blob/master/images/LBJA-feature.png" width="250"> 
 
+gallery:
+  - url: /images/LBJA-feature.jpg
+    image_path: images/LBJA-feature.jpg
 <img src="images/LBJA-feature.png" width="250">
