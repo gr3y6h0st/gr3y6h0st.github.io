@@ -17,5 +17,9 @@ gallery:
 
 gallery:
   - url: /assets/images/LBJA-feature.png
-  - image_path: /assets/images/LBJA-feature.png
-<img src="images/LBJA-feature.png" width="250">
+  - 
+
+image: /assets/images/LBJA-feature.png
+image: images/LBJA-feature.png
+
+<img src="/assets/images/LBJA-feature.png" width="250">
