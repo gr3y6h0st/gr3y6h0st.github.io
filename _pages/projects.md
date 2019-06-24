@@ -11,5 +11,5 @@ author_profile: true
 
 gallery:
   - url: /images/LBJA-feature.jpg
-    image_path: images/LBJA-feature.jpg
+  - image_path: images/LBJA-feature.jpg
 <img src="images/LBJA-feature.png" width="250">
