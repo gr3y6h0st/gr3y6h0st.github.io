@@ -3,8 +3,8 @@ title: "My First Google Play Release: Beginner Japanese Phrases, Vocab, and Hira
 date: 2019-06-12
 tags: [Android, Japanese, Mobile Applications, Google Play]
 header:
-  image: "images/LBJA-feature.png"
-excerpt: "It's About time. Finally got my first Android App released on Google Play. Horray!"
+  image: "assets/images/LBJA-feature.png"
+excerpt: "It's about time! Finally got my first Android App released on Google Play. "
 
 ---
 
@@ -14,10 +14,10 @@ Today's a wonderful day.
 
 Why?
 
-I finally released my first Google Play App.
+I finally released my first Google Play App. Basic functionality for now. Will be continuing to push out more features for the app over time!
 
-[Download It Here!](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese "Google Play")
+[Download It Here!][<img src="/assets/images/google-play-badge.png" width="250"> (https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese "Google Play")
 
-Back to the grind.
+Now, back to the grind.
 
 JD

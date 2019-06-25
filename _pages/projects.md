@@ -10,7 +10,7 @@ author_profile: true
 
 [<img src="/assets/images/google-play-badge.png" width="300">](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese)
 
-### An Overview and Inside Look:
+### An Inside Look:
 
 <img src="/assets/images/LBJA-feature.png" width="500">
 
@@ -22,7 +22,7 @@ More eager and curious users can take their learning a step further by accessing
 
 <img src="/assets/images/LBJA_Main_Screen_Hiragana.png" width="300"> <img src="/assets/images/Beginner_Japanese_Hiragana_GIF_DEMO.gif" width="300">
 
-Lastly, the app does provide a English -> Japanese translation feature based off Google's Cloud Translate API. In it's current form, the sole purpose is to provide a simple method of translation for any material not covered by the app or too complex for novice-level Japanese speakers.
+Lastly, the app does provide a English -> Japanese translation feature based off Google's Cloud Translate API. In its current form, the sole purpose is to provide a simple method of translation for any material not covered by the app or too complex for novice-level Japanese speakers.
 
 
 
