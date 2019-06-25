@@ -8,7 +8,9 @@ author_profile: true
 
 # Learn Beginner Japanese: Phrases, Vocab, and Hiragana
 
-[<img src="/assets/images/google-play-badge.png" width 400>](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese)
+[<img src="http://www.google.com.au/images/nav_logo7.png">]
+
+[<img src="/assets/images/google-play-badge.png">](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese)
 
 ## Screenshots
 
