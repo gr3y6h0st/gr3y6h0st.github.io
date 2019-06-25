@@ -6,12 +6,12 @@ author_profile: true
 
 ---
 
-# Learn Beginner Japanese: Phrases, Vocab, and Hiragana
+## Learn Beginner Japanese: Phrases, Vocab, and Hiragana
 
 
 [<img src="/assets/images/google-play-badge.png" width="300">](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese)
 
-## Screenshots
+### Screenshots
 
 <img src="/assets/images/LBJA-feature.png" width="600">
 
