@@ -18,7 +18,8 @@ I finally released my first Google Play App. Basic functionality for now. Will b
 
 {% include figure image_path="/assets/images/google-play-badge.png" width="250" alt="this is a placeholder image" caption="This is a test." %}
 
-![][<img src="/assets/images/google-play-badge.png" width="250">](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese "Google Play")
+[![Download it here!][<img src="/assets/images/google-play-badge.png" width="250">]](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese "Google Play")
+
 
 Now, back to the grind.
 
