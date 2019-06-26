@@ -16,11 +16,8 @@ Why?
 
 I finally released my first Google Play App. Basic functionality for now. Will be continuing to push out more features for the app over time!
 
-{% include figure image_path="/assets/images/google-play-badge.png" alt="this is a placeholder image" caption="This is a test." %}
-<figure>
-	<img src="/assets/images/google-play-badge" alt="this is a placeholder image">
-  	<figcaption>This is a figure TEST.</figcaption>
-</figure>
+{% include figure image_path="/assets/images/google-play-badge.png" width="250 alt="this is a placeholder image" caption="This is a test." %}
+
 ![][<img src="/assets/images/google-play-badge.png" width="250">](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese "Google Play")
 
 Now, back to the grind.
