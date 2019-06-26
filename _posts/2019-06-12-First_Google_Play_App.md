@@ -16,7 +16,7 @@ Why?
 
 I finally released my first Google Play App. Basic functionality for now. Will be continuing to push out more features for the app over time!
 
-Download It Here![<img src="/assets/images/google-play-badge.png" width="250">](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese "Google Play")
+["Download It Here!"][<img src="/assets/images/google-play-badge.png" width="250">](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese "Google Play")
 
 Now, back to the grind.
 
