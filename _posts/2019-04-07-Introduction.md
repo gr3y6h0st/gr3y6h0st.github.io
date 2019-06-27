@@ -2,8 +2,7 @@
 title: "Introduction"
 date: 2019-04-07
 tags: [Android, Udacity, Github Pages, Fresher, Mobile App Development, Google, Grow with Google, Nanodegree]
-header:
-  image: "images/headerphoto.jpg"
+
 excerpt: "I'm Jayvy, a San Francisco Bay Area native and a self-taught Android Developer working my way into transitioning to professional Android Engineer roles."
 
 ---
