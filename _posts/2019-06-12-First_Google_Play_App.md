@@ -16,9 +16,9 @@ Why?
 
 I finally released my first Google Play App. Basic functionality for now. Will be continuing to push out more features for the app over time!
 
-{% include figure image_path="/assets/images/google-play-badge.png" width="250" alt="this is a placeholder image" caption="This is a test." %}
+{% include figure image_path="/assets/images/google-play-badge.png" alt="this is a placeholder image" width="250" caption="This is a test." %}
 
-[![Download it here!][<img src="/assets/images/google-play-badge.png" width="250">]](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese "Google Play")
+[<img src="/assets/images/google-play-badge.png" width="250">](https://play.google.com/store/apps/details?id=com.jaydroid.beginnerleveljapanese "Google Play")
 
 
 Now, back to the grind.
