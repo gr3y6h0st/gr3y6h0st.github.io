@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jayvy Difuntorum"
+title                    : "Blog"
 title_separator          : "-"
 name                     : "Jayvy Difuntorum"
 description              : "Android Developer Porfolio"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Jayvy Difuntorum"
   avatar           : "/images/bio-photo.jpg"
-  bio              : "Grow with Google Scholar. Udacity Android Developer Graduate."
+  bio              : "Grow with Google Scholar. Udacity Android Developer Graduate. Aspiring Software Engineer."
   location         : "South San Francisco, CA"
   email            : "jayvy19@gmail.com"
   linkedin         : "jayvy-difuntorum"

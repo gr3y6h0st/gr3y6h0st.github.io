@@ -4,6 +4,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 
+
 ---
 
 ## Learn Beginner Japanese: Phrases, Vocab, and Hiragana
@@ -25,7 +26,8 @@ More eager and curious users can take their learning a step further by accessing
 Lastly, the app does provide a English -> Japanese translation feature based off Google's Cloud Translate API. In its current form, the sole purpose is to provide a simple method of translation for any material not covered by the app or too complex for novice-level Japanese speakers.
 
 
-## Popular Movies App
+## Popular Movies App [<img src="/assets/images/GitHub-Mark-32px.png">](https://github.com/gr3y6h0st/Popular-Movies-App)
+
 
 ### An Inside Look:
 
