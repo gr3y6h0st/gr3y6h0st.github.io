@@ -25,4 +25,17 @@ More eager and curious users can take their learning a step further by accessing
 Lastly, the app does provide a English -> Japanese translation feature based off Google's Cloud Translate API. In its current form, the sole purpose is to provide a simple method of translation for any material not covered by the app or too complex for novice-level Japanese speakers.
 
 
+## Popular Movies App
+
+### An Inside Look:
+
+Popular Movies is a fully-featured application that requests movie information from The Movie Database API over a web service.
+
+<img src="/assets/images/Pop_Movies_Home_Activity.png" width="250"> <img src="/assets/images/Pop_Movies_Sorted_Home_Activity.png" width="250">
+
+<img src="/assets/images/Pop_Movies_Sorted_Home_Activity.png" width="250"> <img src="/assets/images/Pop_Movies_Settings_Activity.png" width="250">
+
+The app is able to pull the most recent data on all movies released to-date and sort them according to popularity, rating, or by user favorited titles.
+
+
 
