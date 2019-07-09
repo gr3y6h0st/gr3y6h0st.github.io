@@ -7,7 +7,7 @@ excerpt: "Exciting news. I go Selected to participate in Google Cloud's Learning
 
 ---
 ## Accepted into Google Cloud's Learning Workshop!
-<img src="/assets/images/GCP_Confirmation_Email_SS" width="500">
+<img src="/assets/images/GCP_Confirmation_Email_SS.png" width="500">
 
 
 ### I got in. At the beginning of June, Google sent out sign ups to attend their Google Cloud Learning Workshop, an 8-week long mix of online and in-person learning sessions that expose and provide insight what it takes to be a Customer and Sales Engineer in the cloud industry. For more information visit <https://events.withgoogle.com/sf-cloud-learning-workshop/#content>
