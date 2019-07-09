@@ -1,12 +1,12 @@
 ---
-title: "Accepted into Google Cloud Platform's Learning Workshop"
+title: "The Path to Google Cloud Platform: Accepting GCP's Learning Workshop."
 date: 2019-07-08
 tags: [Google Cloud, GCP, Google Cloud Platform, Coursera, Workshop, ]
 
 excerpt: "Exciting news. I go Selected to participate in Google Cloud's Learning Workshop!"
 
 ---
-## Accepted into Google Cloud's Learning Workshop!
+## I got accepted into Google Cloud's Learning Workshop!
 <img src="/assets/images/GCP_Confirmation_Email_SS.png" width="500">
 
 
