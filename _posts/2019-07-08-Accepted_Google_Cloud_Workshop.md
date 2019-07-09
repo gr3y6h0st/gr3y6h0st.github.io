@@ -3,7 +3,7 @@ title: "The Path to Google Cloud Platform: Accepting GCP's Learning Workshop."
 date: 2019-07-08
 tags: [Google Cloud, GCP, Google Cloud Platform, Coursera, Workshop, ]
 
-excerpt: "Exciting news. I go Selected to participate in Google Cloud's Learning Workshop!"
+excerpt: "Exciting news. I got selected to participate in Google Cloud's Learning Workshop!"
 
 ---
 ## I got accepted into Google Cloud's Learning Workshop!
