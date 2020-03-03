@@ -37,6 +37,6 @@ Popular Movies is a fully-featured application that requests movie information f
 <img src="/assets/images/Pop_Movies_Movie_Details_Activity.png" width="250"> <img src="/assets/images/Pop_Movies_Settings_Activity.png" width="250">
 
 The app is able to pull the most recent data on all movies released to-date and sort them according to popularity, rating, or by user favorited titles.
-
+Currently transitioning the code to implement a more modern architecture and database with the help of Android Architecture Components.
 
 

@@ -17,6 +17,6 @@ Summary: The Program will provide participants free access to Coursera's Archite
 
 At the end of the program, individuals determined to take the Cloud Certification Exam soon after will be offered a subsidy by Google for the cost of the certification. That's a pretty sweet deal.
 
-Pretty excited to learn GCP and add this to my growing list of skills. Let's. Get. This.
+Pretty excited to learn GCP and add this to my growing list of skills. Lets. Get. This.
 
 JD
